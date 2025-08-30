@@ -10,7 +10,7 @@
 locale                   : "HK"
 title                    : "PhD"
 title_separator          : "-"
-name                     : &name "Zhang, Yiming"
+name                     : &name "Yiming Zhang"
 description              : &description "PhD Student at PolyU"
 url                      : https://zymko.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ url                      : https://zymko.github.io/ # the base hostname & protoc
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Zhang, Yiming"
+  name             : "Yiming Zhang"
   # pronouns         : # example: "she/her"  
   bio              : "Efficient LLMs"
   location         : "Hong Kong"
