@@ -12,7 +12,7 @@ title                    : "PhD"
 title_separator          : "-"
 name                     : &name "Zhang, Yiming"
 description              : &description "PhD Student at PolyU"
-url                      : https://github.com/zymko # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zymko.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # baseurl                  : "" # the subpath of your site, e.g. "/blog"
 # repository               : ""
 
@@ -26,7 +26,7 @@ author:
   # pronouns         : # example: "she/her"  
   bio              : "Efficient LLMs"
   location         : "Hong Kong"
-  employer         : "PolyU"
+  employer         : "P"
   # uri              : # URL
   email            : "yiming1.zhang@connect.polyu.hk" 
 
