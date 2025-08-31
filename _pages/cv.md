@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "cv"
+title: "Homepage"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in The Hong Kong Polytechnic University, 2028 (expected)
+* M.Sc. in Techische Universität München, 2023
+* B.E. in Harbin Institute of Technologz, 2019
 
 Work experience
 ======
