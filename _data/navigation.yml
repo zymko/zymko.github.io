@@ -1,5 +1,8 @@
 # main links links
-main:
+main:  
+  - title: "Homepage"
+    url: /cv/
+  
   - title: "Education"
     url: /cv/#education
 
@@ -11,8 +14,5 @@ main:
   
   - title: "Awards"
     url: /cv/#awards
-    
-  - title: "Homepage"
-    url: /cv/
-    
+
 

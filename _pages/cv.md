@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Homepage"
+title: "Yiming's Homepage"
 permalink: /cv/
 author_profile: true
 redirect_from:
