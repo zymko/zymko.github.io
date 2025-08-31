@@ -17,41 +17,6 @@ Education
 
 
 <style>
-/* .paper-box {
-  display: flex;
-  align-items: flex-start;
-  margin-bottom: 20px;
-}
-
-.paper-box-image {
-  width: 300px;
-  margin-right: 16px;
-  position: relative;
-}
-
-.paper-box-image img {
-  max-width: 100%;
-  border-radius: 6px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.12);
-}
-
-.badge {
-  position: absolute;
-  top: 8px;
-  left: 8px;
-  background: #1f4b99;
-  color: white;
-  font-size: 12px;
-  font-weight: bold;
-  padding: 2px 6px;
-  border-radius: 3px;
-}
-
-.paper-box-text {
-  flex: 1;
-  font-size: 14px;
-  line-height: 1.4;
-} */
 .paper-box {
   display: flex;
   align-items: flex-start;
@@ -81,23 +46,6 @@ Education
   line-height: 1.5;
 }
 
-/* 手机端：上下布局 */
-@media (max-width: 768px) {
-  .paper-box {
-    flex-direction: column;
-  }
-
-  .paper-box-image {
-    width: 100%;
-    margin-bottom: 1em;
-  }
-
-  .paper-box-text {
-    width: 100%;
-    padding-left: 0;
-  }
-}
-
 .badge {
   position: absolute;
   top: 2px;
@@ -109,8 +57,6 @@ Education
   padding: 2px 8px;
   border-radius: 3px;
 }
-
-
 </style>
 
 Publications
