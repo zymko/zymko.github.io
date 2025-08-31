@@ -21,7 +21,7 @@ url                      : https://zymko.github.io/ # the base hostname & protoc
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/yiming.png"
+  avatar           : "images/yiming.jpg"
   name             : "Yiming Zhang"
   # pronouns         : # example: "she/her"  
   bio              : "Efficient LLMs"
