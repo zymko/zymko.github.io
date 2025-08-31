@@ -57,7 +57,7 @@ Publications
   </div>
 </div>
 
-Work experience
+Work Experiences
 ======
 
 * **Research Assistant \| Moder Merging** \| (10.2024-05.2025)
