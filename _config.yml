@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "HK"
-title                    : "PhD Student"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Yiming Zhang"
 description              : &description "PhD Student at PolyU"
