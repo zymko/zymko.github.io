@@ -20,43 +20,73 @@ Education
 .paper-box {
   display: flex;
   align-items: flex-start;
-  border-bottom: 1px #efefef solid;
-  padding: 2em 0;
-  gap: 2em; /* 图片和文字之间留空隙 */
+  border: 1px solid #e5e5e5;
+  border-radius: 10px;
+  background: #fff;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+  padding: 1.5em;
+  margin-bottom: 2em;
+  gap: 1.5em;
   flex-wrap: wrap;
+  transition: all 0.3s ease; /* 悬浮动画 */
+}
+
+.paper-box:hover {
+  box-shadow: 0 8px 20px rgba(0,0,0,0.18); /* 鼠标悬浮阴影更深 */
+  transform: translateY(-4px); /* 微微上浮 */
 }
 
 .paper-box-image {
-  flex: 0 0 300px; /* 左边固定宽度 */
+  flex: 0 0 360px; /* 卡片图片大一些 */
   max-width: 100%;
   position: relative;
 }
 
 .paper-box-image img {
   width: 100%;
-  border-radius: 6px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.12);
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
   object-fit: cover;
 }
 
 .paper-box-text {
-  flex: 1; /* 占据剩余空间 */
+  flex: 1;
   min-width: 200px;
-  font-size: 14px;
-  line-height: 1.5;
+  font-size: 15px;
+  line-height: 1.6;
+  color: #333;
 }
 
+/* 手机端：上下布局 */
+@media (max-width: 768px) {
+  .paper-box {
+    flex-direction: column;
+    padding: 1em;
+  }
+
+  .paper-box-image {
+    width: 100%;
+    margin-bottom: 1em;
+  }
+
+  .paper-box-text {
+    width: 100%;
+  }
+}
+
+/* arxiv 标签 */
 .badge {
   position: absolute;
-  top: 2px;
-  left: -3px;
-  background: #890000ff;
+  top: 8px;
+  left: 8px;
+  background: #8B0000; /* 暗红色 */
   color: #fff;
-  font-size: 0.75em;
+  font-size: 0.8em;
   font-weight: bold;
-  padding: 2px 8px;
-  border-radius: 3px;
+  padding: 3px 10px;
+  border-radius: 4px;
 }
+
 </style>
 
 Publications
