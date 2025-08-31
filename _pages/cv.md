@@ -44,7 +44,7 @@ Work experience
   
 Awards
 ======
-* M.Sc. Graduate with merit at TUM, Germany, 07.2023
+* Graduate with merit at TUM, Germany, 07.2023
 * First Prize: National College Students Mathematical Competition, 10.2016
 * First Prize (Ranking No. 17): National High School Mathematical Competition, 10.2014
 
