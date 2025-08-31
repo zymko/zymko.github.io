@@ -62,26 +62,18 @@ Publications
 
 </table>
 
-
-[![paper thumbnail](../images/axiv.png)](../images/infiFPO.png)  
-[**InfiFPO: Implicit Model Fusion via Preference Optimization in Large Language Models**](https://arxiv.org/abs/2505.13878)  
-Yanggan Gu, Zhaoyi Yan, Yuanyi Wang, Yiming Zhang, Qi Zhou, Fei Wu, Hongxia Yang
-
-[![paper thumbnail](../images/axiv.png)](../images/uum.png)  
-[**Unconstrained Model Merging for Enhanced LLM Reasoning**](https://arxiv.org/abs/2410.13699)  
-Yiming Zhang, Baoyi He, Shengyu Zhang, Yuhao Fu, Qi Zhou, Zhijie Sang, Zijin Hong, Kejing Yang, Wenjun Wang, Jianbo Yuan, Guanghan Ning, Linyi Li, Chunlin Ji, Fei Wu, Hongxia Yang
-
 Work experience
 ======
-* **Research Assistant | Moder Merging** (10.2024-05.2025)
+
+* **Research Assistant \| Moder Merging** \| (10.2024-05.2025)
 
   Supervisor: Prof. Hongxia Yang, Department of Computing, The Hong Kong Polytechnic University, Hong Kong
 
-* **Development Engineer | Data Closed-loop** (08.2023-08.2024)
+* **Development Engineer \| Data Closed-loop** \| (08.2023-08.2024)
 
   R & D Department, iMotion Automotive GmbH, Germany 
 
-* **Data Scientisit Intern | Continuous Intraday Market Forecasting and Optimizing** (05.2022-06.2023)
+* **Data Scientisit Intern \| Continuous Intraday Market Forecasting and Optimizing** \| (05.2022-06.2023)
 
   Supervisor: Prof. David Wozabal, Dr. Wolfgang Ridlinger, Data Science Department, Entrix, Germany
   
