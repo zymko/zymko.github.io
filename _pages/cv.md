@@ -29,7 +29,6 @@ Yanggan Gu, Zhaoyi Yan, Yuanyi Wang, Yiming Zhang, Qi Zhou, Fei Wu, Hongxia Yang
 [**InfiFPO: Implicit Model Fusion via Preference Optimization in Large Language Models**](https://arxiv.org/abs/2410.13699)  
 Yiming Zhang, Baoyi He, Shengyu Zhang, Yuhao Fu, Qi Zhou, Zhijie Sang, Zijin Hong, Kejing Yang, Wenjun Wang, Jianbo Yuan, Guanghan Ning, Linyi Li, Chunlin Ji, Fei Wu, Hongxia Yang
 
-
 Work experience
 ======
 * **Research Assistant | Moder Merging** (10.2024-05.2025)
@@ -53,13 +52,11 @@ CPU resource management, and successfully deployed the model on the cloud.  -->
 Linear Model to address missing data. Integrated forecasts into rolling intrinsic algorithms, enabling the optimizer to 
 leverage future price insights for smarter decision-making.  -->
   
-Skills
+Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* M.Sc. Graduate with merit at TUM, Germany, 07.2023
+* First Prize: National College Students Mathematical Competition, 10.2016
+* First Prize (Ranking No. 17): National High School Mathematical Competition, 10.2014
+
 
 
