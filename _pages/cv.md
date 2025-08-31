@@ -13,14 +13,15 @@ Education
 ======
 * Ph.D in The Hong Kong Polytechnic University, 2028 (expected)
 * M.Sc. in Techische Universität München, 2023
-* B.E. in Harbin Institute of Technologz, 2019
+* B.E. in Harbin Institute of Technology, 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Research Assistant | Moder Merging (10.2023-05.2024)
+Supervisor: Prof. Hongxia Yang, Department of Computing, The Hong Kong Polytechnic University, Hong Kong
+  * Led the team to develop a resource-efficient framework for merging domain-specific LLMs to enhance reasoning abilities. The framework supports merging models of both similar and different architectures using layer-wise weight 
+strategies and probabilistic knowledge from fine-tuning data. This work demonstrated that merging expert models 
+improves reasoning capabilities, offering an efficient, decentralized alternative to traditional centralized LLMs.
 
 * Fall 2015: Research Assistant
   * Github University
