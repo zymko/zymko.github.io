@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Yiming Zhang"
 description              : &description "PhD Student at PolyU"
 url                      : https://zymko.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-# baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 # repository               : ""
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -21,7 +21,7 @@ url                      : https://zymko.github.io/ # the base hostname & protoc
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/yiming.jpg"
+  avatar           : "/images/yiming.jpg"
   name             : "Yiming Zhang"
   # pronouns         : # example: "she/her"  
   bio              : "Efficient LLMs"

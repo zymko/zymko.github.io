@@ -1,16 +1,16 @@
 # main links links
 main:
   - title: "Education"
-    url: /#education
+    url: /cv/#education
 
   - title: "Publications"
-    url: /#publications
+    url: /cv/#publications
 
   - title: "Work Experiences"
-    url: /#work-experiences
+    url: /cv/#work-experiences
   
   - title: "Awards"
-    url: /#awards
+    url: /cv/#awards
     
   - title: "Homepage"
     url: /cv/
