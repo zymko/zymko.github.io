@@ -15,6 +15,104 @@ Education
 * M.Sc. in Techische Universität München, 2023
 * B.E. in Harbin Institute of Technology, 2019
 
+
+<style>
+/* .paper-box {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 20px;
+}
+
+.paper-box-image {
+  width: 300px;
+  margin-right: 16px;
+  position: relative;
+}
+
+.paper-box-image img {
+  max-width: 100%;
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+}
+
+.badge {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  background: #1f4b99;
+  color: white;
+  font-size: 12px;
+  font-weight: bold;
+  padding: 2px 6px;
+  border-radius: 3px;
+}
+
+.paper-box-text {
+  flex: 1;
+  font-size: 14px;
+  line-height: 1.4;
+} */
+.paper-box {
+  display: flex;
+  align-items: flex-start;
+  border-bottom: 1px #efefef solid;
+  padding: 2em 0;
+  gap: 2em; /* 图片和文字之间留空隙 */
+  flex-wrap: wrap;
+}
+
+.paper-box-image {
+  flex: 0 0 300px; /* 左边固定宽度 */
+  max-width: 100%;
+  position: relative;
+}
+
+.paper-box-image img {
+  width: 100%;
+  border-radius: 6px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.12);
+  object-fit: cover;
+}
+
+.paper-box-text {
+  flex: 1; /* 占据剩余空间 */
+  min-width: 200px;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+/* 手机端：上下布局 */
+@media (max-width: 768px) {
+  .paper-box {
+    flex-direction: column;
+  }
+
+  .paper-box-image {
+    width: 100%;
+    margin-bottom: 1em;
+  }
+
+  .paper-box-text {
+    width: 100%;
+    padding-left: 0;
+  }
+}
+
+.badge {
+  position: absolute;
+  top: 2px;
+  left: -3px;
+  background: #890000ff;
+  color: #fff;
+  font-size: 0.75em;
+  font-weight: bold;
+  padding: 2px 8px;
+  border-radius: 3px;
+}
+
+
+</style>
+
 Publications
 ======
 <div class='paper-box'>
